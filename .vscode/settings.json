@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.php": "javascript",
+        "deque": "cpp",
+        "ostream": "cpp"
+    }
+}
